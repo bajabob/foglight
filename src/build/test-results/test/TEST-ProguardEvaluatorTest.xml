@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProguardEvaluatorTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2018-07-10T15:50:00" hostname="Bob-Timm-2.local" time="0.388">
+  <properties/>
+  <testcase name="evaluate_infractionCrash_hasExceptions" classname="ProguardEvaluatorTest" time="0.369"/>
+  <testcase name="addException_ensureAdded" classname="ProguardEvaluatorTest" time="0.001"/>
+  <testcase name="addException_ensureCrash" classname="ProguardEvaluatorTest" time="0.0"/>
+  <testcase name="getClassName_proguardedDataExample" classname="ProguardEvaluatorTest" time="0.0"/>
+  <testcase name="containsProguardSignals_notQuiteProguardedClass" classname="ProguardEvaluatorTest" time="0.005"/>
+  <testcase name="evaluate_doNothing_hasExceptions" classname="ProguardEvaluatorTest" time="0.01"/>
+  <testcase name="kClass_UnitCheck" classname="ProguardEvaluatorTest" time="0.0"/>
+  <testcase name="evaluate_infractionCrash_noExceptions" classname="ProguardEvaluatorTest" time="0.001"/>
+  <testcase name="evaluate_infractionLog_hasExceptions" classname="ProguardEvaluatorTest" time="0.0"/>
+  <testcase name="containsProguardSignals_notProguardedClass" classname="ProguardEvaluatorTest" time="0.0"/>
+  <testcase name="containsProguardSignals_proguardedClass" classname="ProguardEvaluatorTest" time="0.0"/>
+  <testcase name="evaluate_infractionLog_noExceptions" classname="ProguardEvaluatorTest" time="0.0"/>
+  <testcase name="getClassName_unit" classname="ProguardEvaluatorTest" time="0.0"/>
+  <testcase name="proguardNameVariants_ensureSize" classname="ProguardEvaluatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
